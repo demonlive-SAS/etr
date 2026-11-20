@@ -231,6 +231,8 @@ https://www.rte.ie/player/live/1280
 https://www.rte.ie/player/live/959
 #EXTINF:-1 tvg-id="1330" tvg-name="AdXcel, Inc. dba ArtsAI" tvg-logo="" group-title="RTE",AdXcel, Inc. dba ArtsAI
 https://www.rte.ie/player/live/1330
+#EXTINF:-1 tvg-id="1669" tvg-name="Adxe Pty Ltd" tvg-logo="" group-title="RTE",Adxe Pty Ltd
+https://www.rte.ie/player/live/1669
 #EXTINF:-1 tvg-id="746" tvg-name="Adxperience SAS" tvg-logo="" group-title="RTE",Adxperience SAS
 https://www.rte.ie/player/live/746
 #EXTINF:-1 tvg-id="259" tvg-name="ADYOULIKE SA" tvg-logo="" group-title="RTE",ADYOULIKE SA
@@ -493,6 +495,8 @@ https://www.rte.ie/player/live/1661
 https://www.rte.ie/player/live/1653
 #EXTINF:-1 tvg-id="1081" tvg-name="C Wire AG" tvg-logo="" group-title="RTE",C Wire AG
 https://www.rte.ie/player/live/1081
+#EXTINF:-1 tvg-id="1670" tvg-name="Camino Labs LTD" tvg-logo="" group-title="RTE",Camino Labs LTD
+https://www.rte.ie/player/live/1670
 #EXTINF:-1 tvg-id="1103" tvg-name="Capaneo GmbH" tvg-logo="" group-title="RTE",Capaneo GmbH
 https://www.rte.ie/player/live/1103
 #EXTINF:-1 tvg-id="1376" tvg-name="Carbonatix LTD" tvg-logo="" group-title="RTE",Carbonatix LTD
@@ -505,8 +509,6 @@ https://www.rte.ie/player/live/1453
 https://www.rte.ie/player/live/1544
 #EXTINF:-1 tvg-id="1087" tvg-name="CASTOOLA D.O.O." tvg-logo="" group-title="RTE",CASTOOLA D.O.O.
 https://www.rte.ie/player/live/1087
-#EXTINF:-1 tvg-id="729" tvg-name="Cavai AS" tvg-logo="" group-title="RTE",Cavai AS
-https://www.rte.ie/player/live/729
 #EXTINF:-1 tvg-id="315" tvg-name="Celtra Inc." tvg-logo="" group-title="RTE",Celtra Inc.
 https://www.rte.ie/player/live/315
 #EXTINF:-1 tvg-id="1458" tvg-name="Chalice AI Limited" tvg-logo="" group-title="RTE",Chalice AI Limited
@@ -853,6 +855,8 @@ https://www.rte.ie/player/live/1535
 https://www.rte.ie/player/live/758
 #EXTINF:-1 tvg-id="1545" tvg-name="Gimii" tvg-logo="" group-title="RTE",Gimii
 https://www.rte.ie/player/live/1545
+#EXTINF:-1 tvg-id="729" tvg-name="Gimle Partners AS" tvg-logo="" group-title="RTE",Gimle Partners AS
+https://www.rte.ie/player/live/729
 #EXTINF:-1 tvg-id="1553" tvg-name="Gitberry AS" tvg-logo="" group-title="RTE",Gitberry AS
 https://www.rte.ie/player/live/1553
 #EXTINF:-1 tvg-id="1668" tvg-name="Glass Labs Technology Limited" tvg-logo="" group-title="RTE",Glass Labs Technology Limited
@@ -1083,6 +1087,8 @@ https://www.rte.ie/player/live/1329
 https://www.rte.ie/player/live/1662
 #EXTINF:-1 tvg-id="732" tvg-name="LetThereBeAds / Performax" tvg-logo="" group-title="RTE",LetThereBeAds / Performax
 https://www.rte.ie/player/live/732
+#EXTINF:-1 tvg-id="263" tvg-name="Life360, Inc." tvg-logo="" group-title="RTE",Life360, Inc.
+https://www.rte.ie/player/live/263
 #EXTINF:-1 tvg-id="67" tvg-name="LifeStreet Corporation" tvg-logo="" group-title="RTE",LifeStreet Corporation
 https://www.rte.ie/player/live/67
 #EXTINF:-1 tvg-id="151" tvg-name="LIFT DSP LIMITED" tvg-logo="" group-title="RTE",LIFT DSP LIMITED
@@ -1117,6 +1123,8 @@ https://www.rte.ie/player/live/109
 https://www.rte.ie/player/live/1467
 #EXTINF:-1 tvg-id="1365" tvg-name="Low Lag Labs" tvg-logo="" group-title="RTE",Low Lag Labs
 https://www.rte.ie/player/live/1365
+#EXTINF:-1 tvg-id="1502" tvg-name="Lugh Studio" tvg-logo="" group-title="RTE",Lugh Studio
+https://www.rte.ie/player/live/1502
 #EXTINF:-1 tvg-id="63" tvg-name="Lumen Research Limited" tvg-logo="" group-title="RTE",Lumen Research Limited
 https://www.rte.ie/player/live/63
 #EXTINF:-1 tvg-id="998" tvg-name="Luna Media Group LLC" tvg-logo="" group-title="RTE",Luna Media Group LLC
@@ -1263,8 +1271,6 @@ https://www.rte.ie/player/live/681
 https://www.rte.ie/player/live/72
 #EXTINF:-1 tvg-id="1133" tvg-name="Nativery Srl" tvg-logo="" group-title="RTE",Nativery Srl
 https://www.rte.ie/player/live/1133
-#EXTINF:-1 tvg-id="263" tvg-name="Nativo, Inc." tvg-logo="" group-title="RTE",Nativo, Inc.
-https://www.rte.ie/player/live/263
 #EXTINF:-1 tvg-id="878" tvg-name="Natív Hirdetés Korlátolt Felelősségű Társaság" tvg-logo="" group-title="RTE",Natív Hirdetés Korlátolt Felelősségű Társaság
 https://www.rte.ie/player/live/878
 #EXTINF:-1 tvg-id="709" tvg-name="NC Audience Exchange, LLC " tvg-logo="" group-title="RTE",NC Audience Exchange, LLC 
@@ -1311,6 +1317,8 @@ https://www.rte.ie/player/live/1558
 https://www.rte.ie/player/live/1119
 #EXTINF:-1 tvg-id="1398" tvg-name="Nowtilus GmbH" tvg-logo="" group-title="RTE",Nowtilus GmbH
 https://www.rte.ie/player/live/1398
+#EXTINF:-1 tvg-id="882" tvg-name="NumberEight Technologies Ltd" tvg-logo="" group-title="RTE",NumberEight Technologies Ltd
+https://www.rte.ie/player/live/882
 #EXTINF:-1 tvg-id="388" tvg-name="Numberly" tvg-logo="" group-title="RTE",Numberly
 https://www.rte.ie/player/live/388
 #EXTINF:-1 tvg-id="1441" tvg-name="Octopads" tvg-logo="" group-title="RTE",Octopads
@@ -1379,6 +1387,8 @@ https://www.rte.ie/player/live/1338
 https://www.rte.ie/player/live/164
 #EXTINF:-1 tvg-id="1471" tvg-name="Overwolf ltd." tvg-logo="" group-title="RTE",Overwolf ltd.
 https://www.rte.ie/player/live/1471
+#EXTINF:-1 tvg-id="93" tvg-name="P39 France" tvg-logo="" group-title="RTE",P39 France
+https://www.rte.ie/player/live/93
 #EXTINF:-1 tvg-id="1663" tvg-name="PAISTRY TECHNOLOGIES GmbH" tvg-logo="" group-title="RTE",PAISTRY TECHNOLOGIES GmbH
 https://www.rte.ie/player/live/1663
 #EXTINF:-1 tvg-id="1527" tvg-name="Panxo Stacks, inc" tvg-logo="" group-title="RTE",Panxo Stacks, inc
@@ -1477,6 +1487,8 @@ https://www.rte.ie/player/live/1032
 https://www.rte.ie/player/live/952
 #EXTINF:-1 tvg-id="762" tvg-name="Protected Media LTD" tvg-logo="" group-title="RTE",Protected Media LTD
 https://www.rte.ie/player/live/762
+#EXTINF:-1 tvg-id="427" tvg-name="Proxi.cloud sp. z o.o." tvg-logo="" group-title="RTE",Proxi.cloud sp. z o.o.
+https://www.rte.ie/player/live/427
 #EXTINF:-1 tvg-id="418" tvg-name="PROXISTORE" tvg-logo="" group-title="RTE",PROXISTORE
 https://www.rte.ie/player/live/418
 #EXTINF:-1 tvg-id="725" tvg-name="Pubfinity LLC" tvg-logo="" group-title="RTE",Pubfinity LLC
@@ -1611,8 +1623,6 @@ https://www.rte.ie/player/live/790
 https://www.rte.ie/player/live/1285
 #EXTINF:-1 tvg-id="1655" tvg-name="ScientiaMobile, Inc." tvg-logo="" group-title="RTE",ScientiaMobile, Inc.
 https://www.rte.ie/player/live/1655
-#EXTINF:-1 tvg-id="93" tvg-name="SCOPE3 SAS" tvg-logo="" group-title="RTE",SCOPE3 SAS
-https://www.rte.ie/player/live/93
 #EXTINF:-1 tvg-id="1090" tvg-name="Score Media Group GmbH &amp; Co. KG" tvg-logo="" group-title="RTE",Score Media Group GmbH & Co. KG
 https://www.rte.ie/player/live/1090
 #EXTINF:-1 tvg-id="1473" tvg-name="Screencore Sp. z.o.o" tvg-logo="" group-title="RTE",Screencore Sp. z.o.o
@@ -1801,6 +1811,8 @@ https://www.rte.ie/player/live/275
 https://www.rte.ie/player/live/1450
 #EXTINF:-1 tvg-id="962" tvg-name="Tangoo S.R.L." tvg-logo="" group-title="RTE",Tangoo S.R.L.
 https://www.rte.ie/player/live/962
+#EXTINF:-1 tvg-id="1673" tvg-name="TapMind Technologies Private Limited" tvg-logo="" group-title="RTE",TapMind Technologies Private Limited
+https://www.rte.ie/player/live/1673
 #EXTINF:-1 tvg-id="475" tvg-name="TAPTAP Digital SL" tvg-logo="" group-title="RTE",TAPTAP Digital SL
 https://www.rte.ie/player/live/475
 #EXTINF:-1 tvg-id="1422" tvg-name="Target Better Inc" tvg-logo="" group-title="RTE",Target Better Inc
