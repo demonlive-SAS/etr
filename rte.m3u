@@ -547,6 +547,8 @@ https://www.rte.ie/player/live/319
 https://www.rte.ie/player/live/1293
 #EXTINF:-1 tvg-id="958" tvg-name="Clipr" tvg-logo="" group-title="RTE",Clipr
 https://www.rte.ie/player/live/958
+#EXTINF:-1 tvg-id="1675" tvg-name="Clist Ltd" tvg-logo="" group-title="RTE",Clist Ltd
+https://www.rte.ie/player/live/1675
 #EXTINF:-1 tvg-id="243" tvg-name="Cloud Technologies S.A." tvg-logo="" group-title="RTE",Cloud Technologies S.A.
 https://www.rte.ie/player/live/243
 #EXTINF:-1 tvg-id="1522" tvg-name="Cloud4Wi Inc" tvg-logo="" group-title="RTE",Cloud4Wi Inc
@@ -847,6 +849,8 @@ https://www.rte.ie/player/live/1251
 https://www.rte.ie/player/live/87
 #EXTINF:-1 tvg-id="1634" tvg-name="Genuin Inc" tvg-logo="" group-title="RTE",Genuin Inc
 https://www.rte.ie/player/live/1634
+#EXTINF:-1 tvg-id="1674" tvg-name="GEO-Q TARGETING, S.L." tvg-logo="" group-title="RTE",GEO-Q TARGETING, S.L.
+https://www.rte.ie/player/live/1674
 #EXTINF:-1 tvg-id="845" tvg-name="GeoEdge" tvg-logo="" group-title="RTE",GeoEdge
 https://www.rte.ie/player/live/845
 #EXTINF:-1 tvg-id="1535" tvg-name="GetmediaMX LLC" tvg-logo="" group-title="RTE",GetmediaMX LLC
@@ -973,8 +977,6 @@ https://www.rte.ie/player/live/1648
 https://www.rte.ie/player/live/1136
 #EXTINF:-1 tvg-id="730" tvg-name="INFOnline GmbH" tvg-logo="" group-title="RTE",INFOnline GmbH
 https://www.rte.ie/player/live/730
-#EXTINF:-1 tvg-id="1582" tvg-name="Informativ Group Corporation" tvg-logo="" group-title="RTE",Informativ Group Corporation
-https://www.rte.ie/player/live/1582
 #EXTINF:-1 tvg-id="871" tvg-name="Ingenious Technologies AG" tvg-logo="" group-title="RTE",Ingenious Technologies AG
 https://www.rte.ie/player/live/871
 #EXTINF:-1 tvg-id="333" tvg-name="InMobi Technology Services Pte. Ltd." tvg-logo="" group-title="RTE",InMobi Technology Services Pte. Ltd.
@@ -1077,6 +1079,8 @@ https://www.rte.ie/player/live/702
 https://www.rte.ie/player/live/1110
 #EXTINF:-1 tvg-id="104" tvg-name="Lamark Media Group, LLC" tvg-logo="" group-title="RTE",Lamark Media Group, LLC
 https://www.rte.ie/player/live/104
+#EXTINF:-1 tvg-id="1677" tvg-name="Latitude Media, S.L." tvg-logo="" group-title="RTE",Latitude Media, S.L.
+https://www.rte.ie/player/live/1677
 #EXTINF:-1 tvg-id="810" tvg-name="lead alliance GmbH" tvg-logo="" group-title="RTE",lead alliance GmbH
 https://www.rte.ie/player/live/810
 #EXTINF:-1 tvg-id="1531" tvg-name="Leanr Ads Ltd" tvg-logo="" group-title="RTE",Leanr Ads Ltd
@@ -1211,8 +1215,6 @@ https://www.rte.ie/player/live/1556
 https://www.rte.ie/player/live/1209
 #EXTINF:-1 tvg-id="1301" tvg-name="METAX SOFTWARE PTE.LTD." tvg-logo="" group-title="RTE",METAX SOFTWARE PTE.LTD.
 https://www.rte.ie/player/live/1301
-#EXTINF:-1 tvg-id="1645" tvg-name="Metica Trading Limited" tvg-logo="" group-title="RTE",Metica Trading Limited
-https://www.rte.ie/player/live/1645
 #EXTINF:-1 tvg-id="1583" tvg-name="Metyks" tvg-logo="" group-title="RTE",Metyks
 https://www.rte.ie/player/live/1583
 #EXTINF:-1 tvg-id="358" tvg-name="MGID Inc." tvg-logo="" group-title="RTE",MGID Inc.
@@ -1547,6 +1549,8 @@ https://www.rte.ie/player/live/60
 https://www.rte.ie/player/live/57
 #EXTINF:-1 tvg-id="290" tvg-name="Readpeak Oy" tvg-logo="" group-title="RTE",Readpeak Oy
 https://www.rte.ie/player/live/290
+#EXTINF:-1 tvg-id="1389" tvg-name="Realtime Communication Sthlm AB" tvg-logo="" group-title="RTE",Realtime Communication Sthlm AB
+https://www.rte.ie/player/live/1389
 #EXTINF:-1 tvg-id="528" tvg-name="Realtime Technologies GmbH" tvg-logo="" group-title="RTE",Realtime Technologies GmbH
 https://www.rte.ie/player/live/528
 #EXTINF:-1 tvg-id="1025" tvg-name="Realytics" tvg-logo="" group-title="RTE",Realytics
@@ -1579,8 +1583,6 @@ https://www.rte.ie/player/live/1189
 https://www.rte.ie/player/live/819
 #EXTINF:-1 tvg-id="1532" tvg-name="Retailor Media S.r.l." tvg-logo="" group-title="RTE",Retailor Media S.r.l.
 https://www.rte.ie/player/live/1532
-#EXTINF:-1 tvg-id="1638" tvg-name="RETICLE DIGITAL PTE. LTD." tvg-logo="" group-title="RTE",RETICLE DIGITAL PTE. LTD.
-https://www.rte.ie/player/live/1638
 #EXTINF:-1 tvg-id="203" tvg-name="Revcontent, LLC" tvg-logo="" group-title="RTE",Revcontent, LLC
 https://www.rte.ie/player/live/203
 #EXTINF:-1 tvg-id="759" tvg-name="RevJet" tvg-logo="" group-title="RTE",RevJet
@@ -1731,6 +1733,8 @@ https://www.rte.ie/player/live/937
 https://www.rte.ie/player/live/1640
 #EXTINF:-1 tvg-id="295" tvg-name="Sojern, Inc." tvg-logo="" group-title="RTE",Sojern, Inc.
 https://www.rte.ie/player/live/295
+#EXTINF:-1 tvg-id="1676" tvg-name="Solarys" tvg-logo="" group-title="RTE",Solarys
+https://www.rte.ie/player/live/1676
 #EXTINF:-1 tvg-id="381" tvg-name="Solocal SA" tvg-logo="" group-title="RTE",Solocal SA
 https://www.rte.ie/player/live/381
 #EXTINF:-1 tvg-id="1296" tvg-name="Soluciones Netquest de Investigación SLU" tvg-logo="" group-title="RTE",Soluciones Netquest de Investigación SLU
@@ -1911,7 +1915,7 @@ https://www.rte.ie/player/live/1620
 https://www.rte.ie/player/live/861
 #EXTINF:-1 tvg-id="239" tvg-name="Triton Digital Canada Inc." tvg-logo="" group-title="RTE",Triton Digital Canada Inc.
 https://www.rte.ie/player/live/239
-#EXTINF:-1 tvg-id="648" tvg-name="TrueData Solutions, Inc." tvg-logo="" group-title="RTE",TrueData Solutions, Inc.
+#EXTINF:-1 tvg-id="648" tvg-name="TrueData Audiences LLC" tvg-logo="" group-title="RTE",TrueData Audiences LLC
 https://www.rte.ie/player/live/648
 #EXTINF:-1 tvg-id="1624" tvg-name="TrustX Digital Advertising Services, Inc. PBC" tvg-logo="" group-title="RTE",TrustX Digital Advertising Services, Inc. PBC
 https://www.rte.ie/player/live/1624
